@@ -1,0 +1,11 @@
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.exe
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.deps.json
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.json
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.runtimeconfig.dev.json
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.dll
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\bin\Debug\netcoreapp3.1\interfaces.pdb
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.csprojAssemblyReference.cache
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.AssemblyInfoInputs.cache
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.AssemblyInfo.cs
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.dll
+E:\EPAM Labs\Interface_lab\interfaces\interfaces\obj\Debug\netcoreapp3.1\interfaces.pdb
